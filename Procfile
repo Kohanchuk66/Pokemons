@@ -1,1 +1,1 @@
-web: gunicorn pokemons1.wsgi
+web: npm start
